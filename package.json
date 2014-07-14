@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:indutny/elliptic"
+    "url": "git@github.com:petschekr/elliptic"
   },
   "keywords": [
     "EC",
@@ -16,12 +16,15 @@
     "curve",
     "Cryptography"
   ],
-  "author": "Fedor Indutny <fedor@indutny.com>",
+  "contributors": [
+    "Fedor Indutny <fedor@indutny.com>",
+    "Ryan Petschek <petschekr@gmail.com"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/indutny/elliptic/issues"
+    "url": "https://github.com/petschekr/elliptic/issues"
   },
-  "homepage": "https://github.com/indutny/elliptic",
+  "homepage": "https://github.com/petschekr/elliptic",
   "devDependencies": {
     "browserify": "^3.44.2",
     "mocha": "^1.18.2"
